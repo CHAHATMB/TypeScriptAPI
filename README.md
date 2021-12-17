@@ -1,5 +1,5 @@
 <p align="center">
-<h1 align="center">TypeScript-API</h1>
+<h1 align="center">TypeScriptAPI</h1>
   <p align="center">
     A simple TypeScript API
     <br /> 
@@ -7,7 +7,7 @@
 </p>
 
 ### Try the Live-Demo Here
-[TypeScript-API](https://typescript-api-v1.herokuapp.com)
+[TypeScriptAPI](https://typescript-api-v1.herokuapp.com)
     
 ### 🔧**Project Setup**  
 
@@ -21,7 +21,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/CHAHATMB/TypeScript-API.git
+   git clone https://github.com/CHAHATMB/TypeScriptAPI.git
    ```
 2. Install NPM packages
    ```sh
