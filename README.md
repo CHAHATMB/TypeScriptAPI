@@ -6,8 +6,8 @@
     </p>
 </p>
 
-### Try the Live-Demo Here
-[TypeScriptAPI](https://typescript-api-v1.herokuapp.com)
+### [Try the Live-Demo Here](https://typescript-api-v1.herokuapp.com)
+ Deployed URL - https://typescript-api-v1.herokuapp.com
     
 ### 🔧**Project Setup**  
 
