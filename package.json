@@ -1,0 +1,36 @@
+{
+  "name": "typescript-api",
+  "version": "1.0.0",
+  "description": "Simple typescript api",
+  "main": "dist/app.js",
+  "scripts": {
+    "prestart": "npm run build",
+    "start": "node dist/app.js",
+    "dev": "nodemon --exec ts-node src/app.ts",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CHAHATMB/TypeScript-API.git"
+  },
+  "author": "Chahat Baghele",
+  "bugs": {
+    "url": "https://github.com/CHAHATMB/TypeScript-API/issues"
+  },
+  "homepage": "https://github.com/CHAHATMB/TypeScript-API#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.14.0",
+    "mongoose": "^5.10.3"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.11",
+    "@types/express-session": "^1.17.3",
+    "@types/mongoose": "^5.10.3",
+    "@types/node": "^14.14.22",
+    "nodemon": "^2.0.7",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.3"
+  }
+}
